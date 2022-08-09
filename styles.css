@@ -172,6 +172,10 @@ height: 60px;
 
 .collections h1 {
   font-weight: 400;
+  /* margin: auto;
+  width: 80%; */
+  
+  
   
   
 }
@@ -184,6 +188,9 @@ height: 60px;
   justify-content: space-between;
   flex-wrap: wrap;
   gap: 16px;
+ 
+  /* margin: auto;
+  width: 80%; */
 }
 
 .sub__heading_container span:nth-child(2) {
@@ -325,6 +332,7 @@ height: 60px;
   .get__the_app .semiContainer .left .img {
     width: 100%;
     object-fit: cover;
+    
     
   }
   
